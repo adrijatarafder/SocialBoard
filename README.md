@@ -141,6 +141,6 @@ and user-centric analytics systems.
 
 
 👨‍💻 Developed By
-Adrija Tarafder, Bhavna, Anunay Kumar
+https://github.com/adrijatarafder,https://github.com/, Anunay Kumar
 Social Media Analytics Dashboard Project
 2026
